@@ -113,7 +113,7 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
+    github: https://github.com/zetaoLian/zetaolian2.github.io.git
   branch: master
 - type: baidu_url_submitter
 
