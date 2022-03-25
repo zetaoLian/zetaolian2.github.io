@@ -114,7 +114,6 @@ deploy:
 - type: git
   repository:
     github: git@github.com:godweiyang/godweiyang.github.io.git
-    coding: git@e.coding.net:godweiyang/godweiyang.git
   branch: master
 - type: baidu_url_submitter
 
